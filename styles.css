@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section {
+    
+    width: 25%;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
